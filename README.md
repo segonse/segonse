@@ -5,11 +5,11 @@ I'm a passionate Full-Stack Developer specializing in Smart Contract development
 ## 🌟 Skills & Expertise
 
 - **Smart Contracts:** Solidity, Hardhat, Foundry
-- **Blockchain:** Ethereum, Binance Smart Chain, Polygon, Arbitrum, ZKsync...
-- **Dapp Development:** Uniswap, PancakeSwap, MakerDAO, Coumpound, Stablecoins, ERC20/721/1155/4337...
+- **Blockchain:** PoW/PoS/DPoS, Ethereum, Binance Smart Chain, Polygon, Arbitrum, ZKsync...
+- **Dapp Development:** Uniswap, PancakeSwap, MakerDAO, Coumpound, Stablecoins, staking, ERC20/721/1155/4337...
 - **Back-End Development:** Node.js, Express, PHP, Python, Mysql, Postgresql, MongoDB
 - **Front-End Development:** html/css/js, jQuery, React, Bootstrap
-- **Tools & Frameworks:** Ethers.js, Web3.js, Ganache, openzeppelin
+- **Tools & Frameworks:** Ethers.js, Web3.js, Ganache, openzeppelin, Chainlink, Alchemy/Infura...
 - **Testing & Security:** Unit/Integrate/Fuzz Testing, Smart Contract Auditing(Slither, Aderyn), Gas Optimization, Common Vulnerabilities (Reentrancy, Integer Overflow, Permission problem...)
 
 ## 🚀 Projects
@@ -24,7 +24,7 @@ Blockchain technology is constantly evolving, and I'm committed to staying on th
 
 ## 📫 Get in Touch
 
-- **GitHub:** [github.com/YourUsername](https://github.com/segonse)
+- **GitHub:** [github.com/segonse](https://github.com/segonse)
 - **Email:** 2891889980@qq.com
 
 I'm always open to collaborating on exciting projects or discussing innovative ideas in the blockchain space. Let's build the decentralized future together!
