@@ -6,7 +6,7 @@ I'm a passionate Full-Stack Developer specializing in Smart Contract development
 
 - **Smart Contracts:** Solidity, Hardhat, Foundry
 - **Blockchain:** PoW/PoS/DPoS, Ethereum, Binance Smart Chain, Polygon, Arbitrum, ZKsync...
-- **Dapp Development:** Uniswap, PancakeSwap, MakerDAO, Coumpound, Stablecoins, staking, ERC20/721/1155/4337...
+- **Dapp Development:** Uniswap, PancakeSwap, MakerDAO, Coumpound, Stablecoins, Staking, Airdrop, ERC20/721/1155/4337...
 - **Back-End Development:** Node.js, Express, PHP, Python, Mysql, Postgresql, MongoDB
 - **Front-End Development:** html/css/js, jQuery, React, Bootstrap
 - **Tools & Frameworks:** Ethers.js, Web3.js, Ganache, openzeppelin, Chainlink, Alchemy/Infura...
@@ -17,6 +17,7 @@ I'm a passionate Full-Stack Developer specializing in Smart Contract development
 - **Decentralized Exchange (DEX):** Built a Uniswap-like DEX with custom AMM logic, incorporating secure and gas-optimized Solidity contracts.
 - **NFT Marketplace:** Developed a full-stack NFT platform, allowing users to mint, buy, and sell NFTs with complete ownership verification on the Ethereum blockchain.
 - **Stablecoin Deployment:** Successfully deployed a stablecoin on Ethereum, ensuring price stability and seamless integration with DeFi protocols.
+- more theres...
 
 ## 🎓 Continuous Learning
 
