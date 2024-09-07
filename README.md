@@ -4,7 +4,7 @@ I'm a passionate Full-Stack Developer specializing in Smart Contract development
 
 ## 🌟 Skills & Expertise
 
-- **Smart Contracts:** Solidity, Hardhat, Foundry
+- **Smart Contracts:** Solidity, Remix, Hardhat, Foundry
 - **Blockchain:** PoW/PoS/DPoS, Ethereum, Binance Smart Chain, Polygon, Arbitrum, ZKsync...
 - **Dapp Development:** Uniswap, PancakeSwap, MakerDAO, Coumpound, Stablecoins, Staking, Airdrop, ERC20/721/1155/4337...
 - **Back-End Development:** Node.js, Express, PHP, Python, Mysql, Postgresql, Redis
