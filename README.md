@@ -22,7 +22,7 @@ I'm a passionate Full-Stack Developer specializing in Smart Contract development
 
 ## 🎓 Continuous Learning
 
-Blockchain technology is constantly evolving, and I'm committed to staying on the cutting edge. The next plan is learn rust and Solana chain development.
+Blockchain technology is constantly evolving, and I'm committed to staying on the cutting edge. The next plan is learn rust and Solana chain development, as well as public chain development and zero-knowledge proof.
 
 ## 📫 Get in Touch
 
