@@ -7,9 +7,9 @@ I'm a passionate Full-Stack Developer specializing in Smart Contract development
 - **Smart Contracts:** Solidity, Remix, Hardhat, Foundry
 - **Blockchain:** PoW/PoS/DPoS, Ethereum, BSC, Avalanche, Polygon, ZKsync...
 - **Dapp Development:** Uniswap, PancakeSwap, MakerDAO, Coumpound, Opensea, Stable-coin, Staking, Airdrop, ERC20/721/1155/4337...
-- **Back-End Development:** Node.js, Express, PHP, Python, Mysql, Postgresql, Redis, REST APIs
-- **Front-End Development:** html/css/js, jQuery, React, Bootstrap
-- **Tools & Frameworks:** Ethers.js, Web3.js, Ganache, Openzeppelin, Chainlink(VRF, Keeper, solidity library), Alchemy/Infura, Metamask...
+- **Back-End Development:** Node.js, Express, Python, Mysql, MongoDB, REST API
+- **Front-End Development:** html/css/javascript(ES6), jQuery, React, Bootstrap, tailwindcss, EJS
+- **Tools & Frameworks:** Ethers.js, Web3.js, Ganache, Openzeppelin, Chainlink(VRF, Keeper, solidity library), Alchemy/Infura, pinata, Metamask...
 - **Testing & Security:** Unit/Integrate/Fuzz Testing, Smart Contract Auditing(Slither, Aderyn), Gas Optimization, Common Vulnerabilities(Reentrancy, Integer Overflow, Permission problem...)
 - **Others:** Docker, Git, AIGC...
 
@@ -27,6 +27,6 @@ Blockchain technology is constantly evolving, and I'm committed to staying on th
 ## 📫 Get in Touch
 
 - **GitHub:** [github.com/segonse](https://github.com/segonse)
-- **Email:** 2891889980@qq.com
+- **Email:** segonsegonse@gmail.com
 
 I'm always open to collaborating on exciting projects or discussing innovative ideas in the blockchain space. Let's build the decentralized future together!
