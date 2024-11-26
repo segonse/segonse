@@ -15,14 +15,14 @@ I'm a passionate Full-Stack Developer specializing in Smart Contract development
 
 ## 🚀 Projects
 
-- **Decentralized Exchange (DEX):** Built a Uniswap-like DEX with custom AMM logic, incorporating secure and gas-optimized Solidity contracts.
 - **NFT Marketplace:** Developed a full-stack NFT platform, allowing users to mint, buy, and sell NFTs with complete ownership verification on the Ethereum blockchain.
+- **Meme Token Transmitter:** Built a meme token transmitter similar to Solana chain's pump.fun on Ethereum.
 - **Stablecoin Deployment:** Successfully deployed a stablecoin on Ethereum, ensuring price stability and seamless integration with DeFi protocols.
 - more theres...
 
 ## 🎓 Continuous Learning
 
-Blockchain technology is constantly evolving, and I'm committed to staying on the cutting edge. The next plan is learn rust and Solana chain development, as well as public chain development and zero-knowledge proof.
+Blockchain technology is constantly evolving, and I'm committed to staying on the cutting edge. The next plan is learn rust and Solana chain development and more Defi content...
 
 ## 📫 Get in Touch
 
